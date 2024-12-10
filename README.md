@@ -1,4 +1,3 @@
-![EXP-3 2](https://github.com/user-attachments/assets/50c1ed56-a1bb-4bfa-b9d1-b7fb0d687851)# HALF_ADDER_SUBTRACTOR
 
 Implementation-of-Half-Adder-and-Half Subtractor-circuit
 
